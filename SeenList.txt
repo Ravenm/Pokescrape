@@ -241,3 +241,422 @@ Venonat, 1ST and Main, 605, 2016-07-23 11:55:00.194000
 Rattata, 1ST and Main, 896, 2016-07-23 11:55:00.224000
 Rattata, 1ST and Main, 872, 2016-07-23 11:55:00.258000
 Pinsir, 1ST and Main, 794, 2016-07-23 11:55:00.292000
+Pidgey, Casino, 514, 2016-07-23 12:31:58.080000
+Venonat, Casino, 526, 2016-07-23 12:31:58.111000
+Pidgey, Casino, 515, 2016-07-23 12:31:58.141000
+Pidgey, Casino, 427, 2016-07-23 12:31:58.171000
+Rattata, Casino, 474, 2016-07-23 12:31:58.205000
+Venonat, Casino, 386, 2016-07-23 12:31:58.247000
+Pidgey, Casino, 399, 2016-07-23 12:31:58.277000
+Venonat, Casino, 382, 2016-07-23 12:31:58.308000
+Eevee, Casino, 207, 2016-07-23 12:31:58.338000
+Pidgey, Casino, 360, 2016-07-23 12:31:58.367000
+Krabby, Casino, 189, 2016-07-23 12:31:58.397000
+Pidgey, Travel Plaza Lot, 63, 2016-07-23 12:32:05.998000
+Venonat, Travel Plaza Lot, 52, 2016-07-23 12:32:06.028000
+Pidgey, Travel Plaza Lot, 56, 2016-07-23 12:32:06.059000
+Pidgey, Travel Plaza Lot, 85, 2016-07-23 12:32:06.091000
+Rattata, Travel Plaza Lot, 105, 2016-07-23 12:32:06.121000
+Venonat, Travel Plaza Lot, 96, 2016-07-23 12:32:06.152000
+Pidgey, Travel Plaza Lot, 86, 2016-07-23 12:32:06.188000
+Venonat, Travel Plaza Lot, 109, 2016-07-23 12:32:06.221000
+Eevee, Travel Plaza Lot, 486, 2016-07-23 12:32:06.264000
+Pidgey, Travel Plaza Lot, 124, 2016-07-23 12:32:06.296000
+Krabby, Travel Plaza Lot, 332, 2016-07-23 12:32:06.331000
+Zubat, Travel Plaza Lot, 516, 2016-07-23 12:32:06.360000
+Rattata, Travel Plaza Lot, 538, 2016-07-23 12:32:06.394000
+Venonat, Travel Plaza Lot, 475, 2016-07-23 12:32:06.426000
+Zubat, Travel Plaza Lot, 509, 2016-07-23 12:32:06.457000
+Pidgey, 1ST and Main, 71, 2016-07-23 12:32:41.095000
+Bellsprout, 1ST and Main, 133, 2016-07-23 12:32:41.128000
+Venonat, 1ST and Main, 143, 2016-07-23 12:32:41.163000
+Pidgey, 1ST and Main, 119, 2016-07-23 12:32:41.199000
+Pidgey, SEU Dorm, 948, 2016-07-23 12:55:39.367000
+Pidgey, SEU Dorm, 972, 2016-07-23 12:55:39.397000
+Rattata, Casino, 149, 2016-07-23 12:55:54.292000
+Pidgey, Casino, 149, 2016-07-23 12:55:54.326000
+Zubat, Casino, 250, 2016-07-23 12:55:54.355000
+Caterpie, Casino, 217, 2016-07-23 12:55:54.385000
+Paras, Casino, 318, 2016-07-23 12:55:54.414000
+Weedle, Casino, 273, 2016-07-23 12:55:54.444000
+Rattata, Casino, 202, 2016-07-23 12:55:54.485000
+Rattata, Casino, 95, 2016-07-23 12:55:54.519000
+Rattata, Casino, 185, 2016-07-23 12:55:54.550000
+Caterpie, Casino, 189, 2016-07-23 12:55:54.580000
+Rattata, Travel Plaza Lot, 516, 2016-07-23 12:56:02.551000
+Pidgey, Travel Plaza Lot, 522, 2016-07-23 12:56:02.581000
+Zubat, Travel Plaza Lot, 556, 2016-07-23 12:56:02.611000
+Caterpie, Travel Plaza Lot, 515, 2016-07-23 12:56:02.641000
+Paras, Travel Plaza Lot, 562, 2016-07-23 12:56:02.673000
+Weedle, Travel Plaza Lot, 658, 2016-07-23 12:56:02.714000
+Rattata, Travel Plaza Lot, 474, 2016-07-23 12:56:02.743000
+Rattata, Travel Plaza Lot, 572, 2016-07-23 12:56:02.776000
+Rattata, Travel Plaza Lot, 629, 2016-07-23 12:56:02.806000
+Caterpie, Travel Plaza Lot, 635, 2016-07-23 12:56:02.838000
+Oddish, 1ST and Main, 594, 2016-07-23 12:56:10.499000
+Rattata, 1ST and Main, 581, 2016-07-23 12:56:10.534000
+Eevee, 1ST and Main, 752, 2016-07-23 12:56:10.565000
+Bulbasaur, 1ST and Main, 244, 2016-07-23 12:56:10.597000
+Rattata, 1ST and Main, 253, 2016-07-23 12:56:10.628000
+Eevee, 1ST and Main, 297, 2016-07-23 12:56:10.672000
+Spearow, 1ST and Main, 246, 2016-07-23 12:56:10.704000
+Caterpie, 1ST and Main, 59, 2016-07-23 12:56:10.734000
+Weedle, 1ST and Main, 90, 2016-07-23 12:56:10.765000
+Pidgey, SEU Dorm, 948, 2016-07-23 13:07:16.772000
+Kakuna, SEU Dorm, 40, 2016-07-23 13:07:16.810000
+Rattata, SEU Dorm, 78, 2016-07-23 13:07:16.845000
+Pidgey, SEU Dorm, 12, 2016-07-23 13:07:16.878000
+Nidoran(M), SEU Dorm, 167, 2016-07-23 13:07:16.921000
+Pinsir, SEU Dorm, 65, 2016-07-23 13:07:16.956000
+Weedle, SEU Dorm, 58, 2016-07-23 13:07:16.987000
+Caterpie, SEU Dorm, 88, 2016-07-23 13:07:17.020000
+Kakuna, SEU Pika Lot, 341, 2016-07-23 13:07:25.018000
+Rattata, SEU Pika Lot, 346, 2016-07-23 13:07:25.048000
+Pidgey, SEU Pika Lot, 360, 2016-07-23 13:07:25.079000
+Nidoran(M), SEU Pika Lot, 502, 2016-07-23 13:07:25.109000
+Pinsir, SEU Pika Lot, 285, 2016-07-23 13:07:25.144000
+Weedle, SEU Pika Lot, 333, 2016-07-23 13:07:25.186000
+Caterpie, SEU Pika Lot, 340, 2016-07-23 13:07:25.218000
+Doduo, SEU Pika Lot, 356, 2016-07-23 13:07:25.248000
+Venonat, SEU Pika Lot, 372, 2016-07-23 13:07:25.284000
+Oddish, SEU Pika Lot, 422, 2016-07-23 13:07:25.313000
+Zubat, Casino, 250, 2016-07-23 13:07:32.696000
+Paras, Casino, 318, 2016-07-23 13:07:32.725000
+Oddish, Casino, 450, 2016-07-23 13:07:32.755000
+Eevee, Casino, 521, 2016-07-23 13:07:32.785000
+Doduo, Casino, 506, 2016-07-23 13:07:32.815000
+Pidgey, Casino, 441, 2016-07-23 13:07:32.856000
+Pidgey, Casino, 497, 2016-07-23 13:07:32.886000
+Rattata, Casino, 471, 2016-07-23 13:07:32.918000
+Zubat, Travel Plaza Lot, 556, 2016-07-23 13:07:41.222000
+Paras, Travel Plaza Lot, 562, 2016-07-23 13:07:41.252000
+Oddish, Travel Plaza Lot, 44, 2016-07-23 13:07:41.281000
+Eevee, Travel Plaza Lot, 92, 2016-07-23 13:07:41.311000
+Doduo, Travel Plaza Lot, 66, 2016-07-23 13:07:41.342000
+Pidgey, Travel Plaza Lot, 39, 2016-07-23 13:07:41.387000
+Pidgey, Travel Plaza Lot, 90, 2016-07-23 13:07:41.417000
+Rattata, Travel Plaza Lot, 163, 2016-07-23 13:07:41.449000
+Pidgey, Travel Plaza Lot, 456, 2016-07-23 13:07:41.479000
+Venonat, Travel Plaza Lot, 440, 2016-07-23 13:07:41.509000
+Venonat, Travel Plaza Lot, 399, 2016-07-23 13:07:41.539000
+Rattata, Travel Plaza Lot, 480, 2016-07-23 13:07:41.569000
+Eevee, 1ST and Main, 297, 2016-07-23 13:07:49.113000
+Caterpie, 1ST and Main, 59, 2016-07-23 13:07:49.143000
+Kakuna, SEU Dorm, 40, 2016-07-23 13:12:57.786000
+Rattata, SEU Dorm, 78, 2016-07-23 13:12:57.824000
+Pidgey, SEU Dorm, 12, 2016-07-23 13:12:57.858000
+Pinsir, SEU Dorm, 65, 2016-07-23 13:12:57.889000
+Caterpie, SEU Dorm, 88, 2016-07-23 13:12:57.919000
+Doduo, SEU Dorm, 128, 2016-07-23 13:12:57.958000
+Venonat, SEU Dorm, 118, 2016-07-23 13:12:57.990000
+Oddish, SEU Dorm, 130, 2016-07-23 13:12:58.019000
+Pidgey, SEU Dorm, 332, 2016-07-23 13:12:58.049000
+Rattata, SEU Dorm, 351, 2016-07-23 13:12:58.078000
+Pidgey, SEU Dorm, 208, 2016-07-23 13:12:58.114000
+Rattata, SEU Dorm, 938, 2016-07-23 13:12:58.144000
+Kakuna, SEU Pika Lot, 341, 2016-07-23 13:13:06.088000
+Rattata, SEU Pika Lot, 346, 2016-07-23 13:13:06.125000
+Pidgey, SEU Pika Lot, 360, 2016-07-23 13:13:06.162000
+Pinsir, SEU Pika Lot, 285, 2016-07-23 13:13:06.196000
+Caterpie, SEU Pika Lot, 340, 2016-07-23 13:13:06.240000
+Doduo, SEU Pika Lot, 356, 2016-07-23 13:13:06.273000
+Venonat, SEU Pika Lot, 372, 2016-07-23 13:13:06.305000
+Oddish, SEU Pika Lot, 422, 2016-07-23 13:13:06.337000
+Pidgey, SEU Pika Lot, 30, 2016-07-23 13:13:06.370000
+Rattata, SEU Pika Lot, 24, 2016-07-23 13:13:06.400000
+Pidgey, SEU Pika Lot, 160, 2016-07-23 13:13:06.435000
+Pidgey, SEU Pika Lot, 335, 2016-07-23 13:13:06.467000
+Pidgey, Casino, 86, 2016-07-23 13:13:14.158000
+Venonat, Casino, 101, 2016-07-23 13:13:14.188000
+Rattata, Casino, 186, 2016-07-23 13:13:14.217000
+Rattata, Casino, 530, 2016-07-23 13:13:14.249000
+Horsea, Casino, 511, 2016-07-23 13:13:14.279000
+Eevee, Casino, 443, 2016-07-23 13:13:14.321000
+Dodrio, Casino, 538, 2016-07-23 13:13:14.351000
+Pidgey, Casino, 420, 2016-07-23 13:13:14.380000
+Pidgey, Casino, 559, 2016-07-23 13:13:14.409000
+Pidgey, Casino, 469, 2016-07-23 13:13:14.439000
+Venonat, Casino, 404, 2016-07-23 13:13:14.469000
+Kakuna, Casino, 571, 2016-07-23 13:13:14.501000
+Pidgey, Travel Plaza Lot, 456, 2016-07-23 13:13:21.880000
+Venonat, Travel Plaza Lot, 399, 2016-07-23 13:13:21.910000
+Rattata, Travel Plaza Lot, 480, 2016-07-23 13:13:21.940000
+Rattata, Travel Plaza Lot, 49, 2016-07-23 13:13:21.970000
+Horsea, Travel Plaza Lot, 178, 2016-07-23 13:13:22.004000
+Eevee, Travel Plaza Lot, 98, 2016-07-23 13:13:22.044000
+Dodrio, Travel Plaza Lot, 161, 2016-07-23 13:13:22.077000
+Pidgey, Travel Plaza Lot, 105, 2016-07-23 13:13:22.107000
+Pidgey, Travel Plaza Lot, 141, 2016-07-23 13:13:22.140000
+Pidgey, Travel Plaza Lot, 153, 2016-07-23 13:13:22.169000
+Venonat, Travel Plaza Lot, 113, 2016-07-23 13:13:22.199000
+Kakuna, Travel Plaza Lot, 97, 2016-07-23 13:13:22.228000
+Pidgey, Travel Plaza Lot, 536, 2016-07-23 13:13:22.260000
+Rattata, 1ST and Main, 152, 2016-07-23 13:13:29.694000
+Rattata, SEU Dorm, 78, 2016-07-23 13:18:37.610000
+Pidgey, SEU Dorm, 12, 2016-07-23 13:18:37.641000
+Pinsir, SEU Dorm, 65, 2016-07-23 13:18:37.670000
+Venonat, SEU Dorm, 118, 2016-07-23 13:18:37.700000
+Rattata, SEU Dorm, 938, 2016-07-23 13:18:37.730000
+Pidgey, SEU Dorm, 33, 2016-07-23 13:18:37.761000
+Pidgey, SEU Dorm, 238, 2016-07-23 13:18:37.801000
+Rattata, SEU Dorm, 171, 2016-07-23 13:18:37.830000
+Pidgeotto, SEU Dorm, 150, 2016-07-23 13:18:37.860000
+Rattata, SEU Dorm, 257, 2016-07-23 13:18:37.891000
+Bulbasaur, SEU Dorm, 333, 2016-07-23 13:18:37.922000
+Eevee, SEU Dorm, 374, 2016-07-23 13:18:37.952000
+Rattata, SEU Dorm, 362, 2016-07-23 13:18:37.981000
+Pidgey, SEU Dorm, 222, 2016-07-23 13:18:38.010000
+Rattata, SEU Pika Lot, 346, 2016-07-23 13:18:46.671000
+Pidgey, SEU Pika Lot, 360, 2016-07-23 13:18:46.702000
+Pinsir, SEU Pika Lot, 285, 2016-07-23 13:18:46.736000
+Venonat, SEU Pika Lot, 372, 2016-07-23 13:18:46.767000
+Pidgey, SEU Pika Lot, 335, 2016-07-23 13:18:46.812000
+Pidgey, SEU Pika Lot, 149, 2016-07-23 13:18:46.842000
+Rattata, SEU Pika Lot, 394, 2016-07-23 13:18:46.872000
+Pidgeotto, SEU Pika Lot, 413, 2016-07-23 13:18:46.902000
+Rattata, SEU Pika Lot, 334, 2016-07-23 13:18:46.934000
+Bulbasaur, SEU Pika Lot, 671, 2016-07-23 13:18:46.964000
+Eevee, SEU Pika Lot, 697, 2016-07-23 13:18:46.995000
+Rattata, SEU Pika Lot, 704, 2016-07-23 13:18:47.028000
+Pidgey, SEU Pika Lot, 514, 2016-07-23 13:18:47.062000
+Rattata, Casino, 530, 2016-07-23 13:18:54.540000
+Horsea, Casino, 511, 2016-07-23 13:18:54.574000
+Eevee, Casino, 443, 2016-07-23 13:18:54.611000
+Pidgey, Casino, 420, 2016-07-23 13:18:54.644000
+Pidgey, Casino, 559, 2016-07-23 13:18:54.677000
+Pidgey, Casino, 469, 2016-07-23 13:18:54.709000
+Venonat, Casino, 404, 2016-07-23 13:18:54.753000
+Pidgey, Casino, 66, 2016-07-23 13:18:54.787000
+Pidgey, Casino, 433, 2016-07-23 13:18:54.820000
+Venonat, Casino, 434, 2016-07-23 13:18:54.853000
+Doduo, Casino, 500, 2016-07-23 13:18:54.886000
+Pidgey, Casino, 490, 2016-07-23 13:18:54.919000
+Doduo, Casino, 444, 2016-07-23 13:18:54.953000
+Pidgey, Casino, 568, 2016-07-23 13:18:54.990000
+Rattata, Casino, 368, 2016-07-23 13:18:55.021000
+Rattata, Casino, 389, 2016-07-23 13:18:55.059000
+Eevee, Casino, 180, 2016-07-23 13:18:55.089000
+Eevee, Casino, 241, 2016-07-23 13:18:55.119000
+Rattata, Travel Plaza Lot, 49, 2016-07-23 13:19:03.468000
+Horsea, Travel Plaza Lot, 178, 2016-07-23 13:19:03.497000
+Eevee, Travel Plaza Lot, 98, 2016-07-23 13:19:03.531000
+Pidgey, Travel Plaza Lot, 105, 2016-07-23 13:19:03.561000
+Pidgey, Travel Plaza Lot, 141, 2016-07-23 13:19:03.592000
+Pidgey, Travel Plaza Lot, 153, 2016-07-23 13:19:03.632000
+Venonat, Travel Plaza Lot, 113, 2016-07-23 13:19:03.662000
+Pidgey, Travel Plaza Lot, 536, 2016-07-23 13:19:03.692000
+Pidgey, Travel Plaza Lot, 54, 2016-07-23 13:19:03.724000
+Venonat, Travel Plaza Lot, 47, 2016-07-23 13:19:03.754000
+Doduo, Travel Plaza Lot, 157, 2016-07-23 13:19:03.784000
+Pidgey, Travel Plaza Lot, 97, 2016-07-23 13:19:03.814000
+Doduo, Travel Plaza Lot, 126, 2016-07-23 13:19:03.843000
+Pidgey, Travel Plaza Lot, 161, 2016-07-23 13:19:03.875000
+Rattata, Travel Plaza Lot, 114, 2016-07-23 13:19:03.904000
+Rattata, Travel Plaza Lot, 109, 2016-07-23 13:19:03.935000
+Eevee, Travel Plaza Lot, 469, 2016-07-23 13:19:03.965000
+Eevee, Travel Plaza Lot, 492, 2016-07-23 13:19:03.995000
+Exeggcute, SEU Dorm, 212, 2016-07-23 13:30:09.108000
+Exeggcute, SEU Pika Lot, 180, 2016-07-23 13:30:16.826000
+Eevee, Casino, 180, 2016-07-23 13:30:24.802000
+Ekans, Casino, 534, 2016-07-23 13:30:24.831000
+Eevee, Casino, 427, 2016-07-23 13:30:24.864000
+Krabby, Casino, 386, 2016-07-23 13:30:24.895000
+Rattata, Casino, 399, 2016-07-23 13:30:24.925000
+Oddish, Casino, 207, 2016-07-23 13:30:24.965000
+Pidgey, Casino, 80, 2016-07-23 13:30:24.996000
+Rattata, Casino, 215, 2016-07-23 13:30:25.026000
+Bellsprout, Casino, 204, 2016-07-23 13:30:25.055000
+Pidgey, Casino, 274, 2016-07-23 13:30:25.085000
+Eevee, Casino, 330, 2016-07-23 13:30:25.116000
+Pidgey, Casino, 324, 2016-07-23 13:30:25.145000
+Kakuna, Casino, 303, 2016-07-23 13:30:25.175000
+Weedle, Casino, 44, 2016-07-23 13:30:25.206000
+Eevee, Travel Plaza Lot, 469, 2016-07-23 13:30:32.519000
+Ekans, Travel Plaza Lot, 56, 2016-07-23 13:30:32.549000
+Eevee, Travel Plaza Lot, 85, 2016-07-23 13:30:32.579000
+Krabby, Travel Plaza Lot, 96, 2016-07-23 13:30:32.610000
+Rattata, Travel Plaza Lot, 86, 2016-07-23 13:30:32.652000
+Oddish, Travel Plaza Lot, 486, 2016-07-23 13:30:32.684000
+Pidgey, Travel Plaza Lot, 516, 2016-07-23 13:30:32.714000
+Rattata, Travel Plaza Lot, 439, 2016-07-23 13:30:32.746000
+Bellsprout, Travel Plaza Lot, 491, 2016-07-23 13:30:32.776000
+Pidgey, Travel Plaza Lot, 552, 2016-07-23 13:30:32.805000
+Eevee, Travel Plaza Lot, 521, 2016-07-23 13:30:32.839000
+Pidgey, Travel Plaza Lot, 629, 2016-07-23 13:30:32.871000
+Kakuna, Travel Plaza Lot, 633, 2016-07-23 13:30:32.902000
+Weedle, Travel Plaza Lot, 475, 2016-07-23 13:30:32.932000
+Rattata, 1ST and Main, 143, 2016-07-23 13:30:40.619000
+Pidgey, 1ST and Main, 119, 2016-07-23 13:30:40.648000
+Pidgey, SEU Dorm, 209, 2016-07-23 13:35:48.473000
+Pidgey, SEU Pika Lot, 490, 2016-07-23 13:35:58.094000
+Rattata, SEU Pika Lot, 384, 2016-07-23 13:35:58.140000
+Pidgey, SEU Pika Lot, 341, 2016-07-23 13:35:58.193000
+Pidgey, SEU Pika Lot, 279, 2016-07-23 13:35:58.234000
+Pidgey, SEU Pika Lot, 405, 2016-07-23 13:35:58.277000
+Rattata, Casino, 215, 2016-07-23 13:36:07.023000
+Bellsprout, Casino, 204, 2016-07-23 13:36:07.056000
+Pidgey, Casino, 274, 2016-07-23 13:36:07.086000
+Eevee, Casino, 330, 2016-07-23 13:36:07.119000
+Pidgey, Casino, 324, 2016-07-23 13:36:07.158000
+Kakuna, Casino, 303, 2016-07-23 13:36:07.191000
+Weedle, Casino, 44, 2016-07-23 13:36:07.224000
+Spearow, Casino, 250, 2016-07-23 13:36:07.258000
+Rattata, Casino, 357, 2016-07-23 13:36:07.288000
+Doduo, Casino, 393, 2016-07-23 13:36:07.320000
+Rattata, Casino, 258, 2016-07-23 13:36:07.351000
+Zubat, Casino, 151, 2016-07-23 13:36:07.381000
+Rattata, Casino, 138, 2016-07-23 13:36:07.414000
+Weedle, Casino, 394, 2016-07-23 13:36:07.444000
+Rattata, Travel Plaza Lot, 439, 2016-07-23 13:36:15.655000
+Bellsprout, Travel Plaza Lot, 491, 2016-07-23 13:36:15.690000
+Pidgey, Travel Plaza Lot, 552, 2016-07-23 13:36:15.729000
+Eevee, Travel Plaza Lot, 521, 2016-07-23 13:36:15.760000
+Pidgey, Travel Plaza Lot, 629, 2016-07-23 13:36:15.799000
+Kakuna, Travel Plaza Lot, 633, 2016-07-23 13:36:15.844000
+Weedle, Travel Plaza Lot, 475, 2016-07-23 13:36:15.874000
+Spearow, Travel Plaza Lot, 521, 2016-07-23 13:36:15.906000
+Rattata, Travel Plaza Lot, 622, 2016-07-23 13:36:15.939000
+Doduo, Travel Plaza Lot, 660, 2016-07-23 13:36:15.973000
+Rattata, Travel Plaza Lot, 568, 2016-07-23 13:36:16.011000
+Zubat, Travel Plaza Lot, 509, 2016-07-23 13:36:16.044000
+Rattata, Travel Plaza Lot, 524, 2016-07-23 13:36:16.077000
+Weedle, Travel Plaza Lot, 729, 2016-07-23 13:36:16.112000
+Pidgey, 1ST and Main, 552, 2016-07-23 13:36:24.299000
+Pidgey, SEU Dorm, 209, 2016-07-23 13:41:31.972000
+Rattata, SEU Dorm, 43, 2016-07-23 13:41:32.002000
+Pidgey, SEU Dorm, 142, 2016-07-23 13:41:32.035000
+Pidgey, SEU Dorm, 156, 2016-07-23 13:41:32.064000
+Pidgey, SEU Dorm, 495, 2016-07-23 13:41:32.094000
+Pidgey, SEU Dorm, 476, 2016-07-23 13:41:32.132000
+Bellsprout, SEU Dorm, 808, 2016-07-23 13:41:32.161000
+Pidgey, SEU Pika Lot, 490, 2016-07-23 13:41:40.728000
+Rattata, SEU Pika Lot, 384, 2016-07-23 13:41:40.759000
+Pidgey, SEU Pika Lot, 341, 2016-07-23 13:41:40.789000
+Pidgey, SEU Pika Lot, 279, 2016-07-23 13:41:40.819000
+Pidgey, SEU Pika Lot, 664, 2016-07-23 13:41:40.850000
+Pidgey, SEU Pika Lot, 651, 2016-07-23 13:41:40.888000
+Bellsprout, SEU Pika Lot, 330, 2016-07-23 13:41:40.918000
+Rattata, SEU Pika Lot, 347, 2016-07-23 13:41:40.948000
+Pidgey, SEU Pika Lot, 379, 2016-07-23 13:41:40.978000
+Venonat, SEU Pika Lot, 379, 2016-07-23 13:41:41.007000
+Pidgey, Casino, 274, 2016-07-23 13:41:49.521000
+Pidgey, Casino, 324, 2016-07-23 13:41:49.552000
+Kakuna, Casino, 303, 2016-07-23 13:41:49.589000
+Spearow, Casino, 250, 2016-07-23 13:41:49.620000
+Doduo, Casino, 393, 2016-07-23 13:41:49.652000
+Rattata, Casino, 258, 2016-07-23 13:41:49.693000
+Zubat, Casino, 151, 2016-07-23 13:41:49.724000
+Rattata, Casino, 138, 2016-07-23 13:41:49.759000
+Weedle, Casino, 394, 2016-07-23 13:41:49.791000
+Doduo, Casino, 257, 2016-07-23 13:41:49.820000
+Pidgey, Travel Plaza Lot, 552, 2016-07-23 13:41:57.565000
+Pidgey, Travel Plaza Lot, 629, 2016-07-23 13:41:57.599000
+Kakuna, Travel Plaza Lot, 633, 2016-07-23 13:41:57.633000
+Spearow, Travel Plaza Lot, 521, 2016-07-23 13:41:57.665000
+Doduo, Travel Plaza Lot, 660, 2016-07-23 13:41:57.705000
+Rattata, Travel Plaza Lot, 568, 2016-07-23 13:41:57.737000
+Zubat, Travel Plaza Lot, 509, 2016-07-23 13:41:57.774000
+Rattata, Travel Plaza Lot, 524, 2016-07-23 13:41:57.812000
+Weedle, Travel Plaza Lot, 729, 2016-07-23 13:41:57.846000
+Doduo, Travel Plaza Lot, 622, 2016-07-23 13:41:57.876000
+Pidgey, 1ST and Main, 552, 2016-07-23 13:42:05.762000
+Caterpie, 1ST and Main, 45, 2016-07-23 13:42:05.794000
+Pidgey, 1ST and Main, 171, 2016-07-23 13:42:05.826000
+Rattata, 1ST and Main, 147, 2016-07-23 13:42:05.862000
+Pidgey, 1ST and Main, 554, 2016-07-23 13:42:05.893000
+Doduo, 1ST and Main, 662, 2016-07-23 13:42:05.933000
+Squirtle, 1ST and Main, 808, 2016-07-23 13:42:05.968000
+Pidgey, SEU Dorm, 209, 2016-07-23 13:47:14.578000
+Pidgey, SEU Dorm, 142, 2016-07-23 13:47:14.607000
+Pidgey, SEU Dorm, 156, 2016-07-23 13:47:14.636000
+Bellsprout, SEU Dorm, 808, 2016-07-23 13:47:14.668000
+Bellsprout, SEU Dorm, 28, 2016-07-23 13:47:14.698000
+Rattata, SEU Dorm, 48, 2016-07-23 13:47:14.738000
+Pidgey, SEU Dorm, 44, 2016-07-23 13:47:14.767000
+Venonat, SEU Dorm, 120, 2016-07-23 13:47:14.799000
+Squirtle, SEU Dorm, 807, 2016-07-23 13:47:14.829000
+Rattata, SEU Dorm, 855, 2016-07-23 13:47:14.859000
+Pidgey, SEU Dorm, 938, 2016-07-23 13:47:14.890000
+Eevee, SEU Dorm, 988, 2016-07-23 13:47:14.920000
+Pidgey, SEU Pika Lot, 490, 2016-07-23 13:47:23.562000
+Pidgey, SEU Pika Lot, 341, 2016-07-23 13:47:23.593000
+Pidgey, SEU Pika Lot, 279, 2016-07-23 13:47:23.626000
+Bellsprout, SEU Pika Lot, 330, 2016-07-23 13:47:23.656000
+Rattata, SEU Pika Lot, 347, 2016-07-23 13:47:23.690000
+Pidgey, SEU Pika Lot, 379, 2016-07-23 13:47:23.731000
+Venonat, SEU Pika Lot, 379, 2016-07-23 13:47:23.760000
+Squirtle, SEU Pika Lot, 968, 2016-07-23 13:47:23.790000
+Gastly, SEU Pika Lot, 288, 2016-07-23 13:47:23.820000
+Rattata, SEU Pika Lot, 381, 2016-07-23 13:47:23.850000
+Weedle, Casino, 394, 2016-07-23 13:47:32.651000
+Doduo, Casino, 257, 2016-07-23 13:47:32.682000
+Weedle, Casino, 384, 2016-07-23 13:47:32.712000
+Pidgey, Casino, 416, 2016-07-23 13:47:32.742000
+Rattata, Casino, 386, 2016-07-23 13:47:32.777000
+Weedle, Travel Plaza Lot, 729, 2016-07-23 13:47:40.696000
+Doduo, Travel Plaza Lot, 622, 2016-07-23 13:47:40.727000
+Weedle, Travel Plaza Lot, 173, 2016-07-23 13:47:40.757000
+Pidgey, Travel Plaza Lot, 68, 2016-07-23 13:47:40.793000
+Rattata, Travel Plaza Lot, 99, 2016-07-23 13:47:40.834000
+Pidgey, 1ST and Main, 552, 2016-07-23 13:47:48.494000
+Pidgey, 1ST and Main, 171, 2016-07-23 13:47:48.530000
+Pidgey, 1ST and Main, 554, 2016-07-23 13:47:48.567000
+Squirtle, 1ST and Main, 808, 2016-07-23 13:47:48.597000
+Rattata, 1ST and Main, 115, 2016-07-23 13:47:48.631000
+Rattata, 1ST and Main, 90, 2016-07-23 13:47:48.665000
+Weedle, 1ST and Main, 107, 2016-07-23 13:47:48.712000
+Rattata, 1ST and Main, 634, 2016-07-23 13:47:48.743000
+Pidgey, 1ST and Main, 605, 2016-07-23 13:47:48.774000
+Rattata, 1ST and Main, 762, 2016-07-23 13:47:48.805000
+Pidgey, 1ST and Main, 793, 2016-07-23 13:47:48.834000
+Rattata, 1ST and Main, 667, 2016-07-23 13:47:48.867000
+Eevee, 1ST and Main, 692, 2016-07-23 13:47:48.897000
+Rattata, SEU Dorm, 48, 2016-07-23 13:52:56.472000
+Pidgey, SEU Dorm, 44, 2016-07-23 13:52:56.502000
+Venonat, SEU Dorm, 120, 2016-07-23 13:52:56.533000
+Gastly, SEU Dorm, 60, 2016-07-23 13:52:56.563000
+Rattata, SEU Dorm, 112, 2016-07-23 13:52:56.592000
+Rattata, SEU Dorm, 610, 2016-07-23 13:52:56.637000
+Rattata, SEU Dorm, 708, 2016-07-23 13:52:56.667000
+Rattata, SEU Pika Lot, 347, 2016-07-23 13:53:04.316000
+Pidgey, SEU Pika Lot, 379, 2016-07-23 13:53:04.348000
+Gastly, SEU Pika Lot, 288, 2016-07-23 13:53:04.377000
+Rattata, SEU Pika Lot, 381, 2016-07-23 13:53:04.407000
+Rattata, SEU Pika Lot, 954, 2016-07-23 13:53:04.451000
+Rattata, SEU Pika Lot, 340, 2016-07-23 13:53:04.484000
+Pidgey, SEU Pika Lot, 360, 2016-07-23 13:53:04.515000
+Rattata, SEU Pika Lot, 386, 2016-07-23 13:53:04.548000
+Pidgey, SEU Pika Lot, 434, 2016-07-23 13:53:04.578000
+Pidgey, Casino, 416, 2016-07-23 13:53:12.419000
+Rattata, Casino, 149, 2016-07-23 13:53:12.448000
+Pidgey, Casino, 202, 2016-07-23 13:53:12.478000
+Weedle, Casino, 217, 2016-07-23 13:53:12.509000
+Staryu, Casino, 149, 2016-07-23 13:53:12.548000
+Pidgey, Travel Plaza Lot, 68, 2016-07-23 13:53:20.296000
+Rattata, Travel Plaza Lot, 522, 2016-07-23 13:53:20.329000
+Pidgey, Travel Plaza Lot, 474, 2016-07-23 13:53:20.360000
+Weedle, Travel Plaza Lot, 515, 2016-07-23 13:53:20.393000
+Staryu, Travel Plaza Lot, 516, 2016-07-23 13:53:20.424000
+Rattata, 1ST and Main, 90, 2016-07-23 13:53:36.035000
+Rattata, 1ST and Main, 634, 2016-07-23 13:53:36.065000
+Pidgey, 1ST and Main, 605, 2016-07-23 13:53:36.095000
+Rattata, 1ST and Main, 667, 2016-07-23 13:53:36.125000
+Venonat, 1ST and Main, 111, 2016-07-23 13:53:36.164000
+Weedle, 1ST and Main, 120, 2016-07-23 13:53:36.194000
+Rattata, SEU Dorm, 171, 2016-07-23 14:21:57.655000
+Pidgey, SEU Dorm, 150, 2016-07-23 14:21:57.686000
+Rattata, SEU Pika Lot, 394, 2016-07-23 14:22:12.841000
+Pidgey, SEU Pika Lot, 413, 2016-07-23 14:22:12.874000
+Pidgey, SEU Pika Lot, 335, 2016-07-23 14:22:12.905000
+Spearow, Casino, 80, 2016-07-23 14:22:20.416000
+Spearow, Casino, 66, 2016-07-23 14:22:20.448000
+Pidgey, Casino, 230, 2016-07-23 14:22:20.484000
+Pidgey, Casino, 180, 2016-07-23 14:22:20.515000
+Staryu, Casino, 207, 2016-07-23 14:22:20.548000
+Rattata, Casino, 241, 2016-07-23 14:22:20.590000
+Spearow, Travel Plaza Lot, 516, 2016-07-23 14:22:28.748000
+Spearow, Travel Plaza Lot, 536, 2016-07-23 14:22:28.782000
+Pidgey, Travel Plaza Lot, 421, 2016-07-23 14:22:28.814000
+Pidgey, Travel Plaza Lot, 469, 2016-07-23 14:22:28.846000
+Staryu, Travel Plaza Lot, 486, 2016-07-23 14:22:28.878000
+Rattata, Travel Plaza Lot, 492, 2016-07-23 14:22:28.919000

@@ -5,15 +5,17 @@ import math
 from slacker import Slacker
 import datetime
 import time
+import sys
+
+
 # 7/23/16 Nash
 
 
 def distance(p0, p1):
-    return math.sqrt((p0[0] - p1[0])**2 + (p0[1] - p1[1])**2)
+    return math.sqrt((p0[0] - p1[0]) ** 2 + (p0[1] - p1[1]) ** 2)
 
 
 class Marker(object):
-
     def __init__(self, name, sitemap, location, screamer=False):
         self.name = name
         self.location = location
@@ -22,7 +24,6 @@ class Marker(object):
 
 
 class Pokemon(object):
-
     def __init__(self, location, name, markerdist, marker):
         self.location = location
         self.name = name
@@ -47,67 +48,94 @@ def setmarkers():
 
     return templist
 
+
 # add a slack api token here or set to none to disable
-apitoken = None
+apitoken = None  # 
 # list of pokenumbers you want to ignore see pokemon.txt for list, based off of line number ie line 1 is bulbasaur
 ignoreList = (10, 11, 13, 14, 16, 17, 18, 19, 20, 46, 47, 48, 84, 85, 127)
 base = "https://pokevision.com/#/"
 
 
 def doit():
-        fname = 'pokemon.txt'
+    fname = 'pokemon.txt'
+    markerList = setmarkers()
+    recentlist = []
+    with open(fname) as f:
+        content = f.readlines()
 
-        markerList = setmarkers()
-        with open(fname) as f:
-            content = f.readlines()
-        if apitoken is not None:
-            slack = Slacker(apitoken)
-        pokemonlist = []
-        # for location in latlonlist:
-        #     browser.get(base+location)
-        for marker in markerList:
-            try:
-                browser = webdriver.PhantomJS('E:/phantomjs-2.1.1-windows/bin/phantomjs.exe')
-                browser.set_window_size(1024, 768)
-                browser.implicitly_wait(5)
-                browser.set_page_load_timeout(40)
-                browser.get(base + marker.map)
-                browser.find_element_by_class_name('home-map-scan').click()
-                foo = browser.find_elements_by_class_name('leaflet-marker-icon')
-                print marker.name
-                for fee in foo:
-                    boo = fee.get_attribute('src')
-                    if 'marker-icon.png' in boo:
-                        marker.location = (int(fee.location['y']), int(fee.location['x']))
-                    else:
-                        path = urlparse.urlparse(boo).path
-                        key = [x.split('.') for x in os.path.split(path)]
+    with open("SeenList" + str(datetime.datetime.today().day) + "-" +
+              str(datetime.datetime.today().month) + ".txt") as file:
+        seenlist = file.readlines()
 
-                        temp = Pokemon((fee.location['y'], fee.location['x']), content[int(key[1][0]) - 1],
-                                       marker.location, marker.name)
+    for item in seenlist:
+        itemlist = item.split(",")
+        if itemlist[3].strip() > str(datetime.datetime.now() - datetime.timedelta(minutes=30)):
+            recentlist.append(item)
+            # print str(datetime.datetime.now() - datetime.timedelta(minutes=30))
+    print recentlist
+    if apitoken is not None:
+        slack = Slacker(apitoken)
+    pokemonlist = []
+    # for location in latlonlist:
+    #     browser.get(base+location)
+    for marker in markerList:
+        try:
+            browser = webdriver.PhantomJS('E:/phantomjs-2.1.1-windows/bin/phantomjs.exe')
+            browser.set_window_size(1024, 768)
+            browser.implicitly_wait(5)
+            browser.set_page_load_timeout(40)
+            browser.get(base + marker.map)
+            if 'maintenance' in browser.title.lower():
+                raise Warning('Page is down')
+            browser.find_element_by_class_name('home-map-scan').click()
+            foo = browser.find_elements_by_class_name('leaflet-marker-icon')
+            print marker.name
+            for fee in foo:
+                flag = False
+                boo = fee.get_attribute('src')
+                if 'marker-icon.png' in boo:
+                    marker.location = (int(fee.location['y']), int(fee.location['x']))
+                else:
+                    path = urlparse.urlparse(boo).path
+                    key = [x.split('.') for x in os.path.split(path)]
 
-                        datenow = str(datetime.datetime.now())
+                    temp = Pokemon((fee.location['y'], fee.location['x']), content[int(key[1][0]) - 1],
+                                   marker.location, marker.name)
 
+                    datenow = str(datetime.datetime.now())
+
+                    for item in recentlist:
+                        splititem = item.split(",")
+                        if temp.name.replace("\n", "") == splititem[0] and \
+                                str(temp.distance).replace("\n", "") == splititem[2]:
+                            flag = True
+                            print True
+                    if not flag:
                         # writes to a file so you can see historical data
-                        with open("SeenList.txt", "a") as myfile:
+                        with open("SeenList" + str(datetime.datetime.today().day) +
+                                  "-" + str(datetime.datetime.today().month) + ".txt", "a") as myfile:
                             writestring = (temp.name + ", " + temp.marker + ", " + str(temp.distance) +
                                            ", " + datenow).replace("\n", "")
                             myfile.write(writestring + "\n")
-                        if int(key[1][0]) not in ignoreList:
-                            pokemonlist.append(temp)
-                for pokemon in sorted(pokemonlist):
-                    # this distance sets how close a pokemon is note that this is based on screen size and not miles
-                    if pokemon.distance < 300:
-                        msg = (pokemon.name + " " + str(math.floor(pokemon.distance))).replace("\n", "")
-                        print pokemon.name + " " + str(math.floor(pokemon.distance))
-                        if marker.screamer and apitoken is not None:
-                            slack.chat.post_message('#pokebot', marker.name + " :: " + msg)
-                del pokemonlist[:]
-            finally:
-                # pray nothing hangs
-                browser.quit()
+                    if int(key[1][0]) not in ignoreList:
+                        pokemonlist.append(temp)
+
+            for pokemon in sorted(pokemonlist):
+                # this distance sets how close a pokemon is note that this is based on screen size and not miles
+                if pokemon.distance < 300:
+                    msg = (pokemon.name + " " + str(math.floor(pokemon.distance))).replace("\n", "")
+                    print pokemon.name + " " + str(math.floor(pokemon.distance))
+                    if marker.screamer and apitoken is not None:
+                        slack.chat.post_message('#pokebot', marker.name + " :: " + msg)
+            del pokemonlist[:]
+            browser.quit()
+        except Exception, e:
+            print marker.name + "  " + str(e)
+            browser.quit()
+
 
 if __name__ == "__main__":
-    for i in range(6):
+    for i in range(24):
         doit()
-        time.sleep(600)  # 600 every ten minutes
+        time.sleep(300)  # 600 every ten minutes
+    sys.exit(0)
